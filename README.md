@@ -1,2 +1,3 @@
-# elhyai-web-2026
-Sitio web premium para ElhyAI Consultores - IA, Desarrollo Web y Automatización
+# ElhyAI Web 2026
+
+Sitio oficial de ElhyAI Consultores.
